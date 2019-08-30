@@ -1,7 +1,7 @@
 //入口文件
 import Vue from 'vue'
 
-//导入mui
+//导入mui   
 import './lib/mui/css/mui.min.css'
 
 //按需导入mint-ui
