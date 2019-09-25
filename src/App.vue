@@ -42,6 +42,7 @@
 <style lang="scss" scoped>
 	.app-container {
 		padding-top:40px;
+		padding-bottom:50px;
 		overflow-x:hidden;//处理动画导航出现滚动 其实是出现滚动条的原因
 	}
 	.v-enter {
